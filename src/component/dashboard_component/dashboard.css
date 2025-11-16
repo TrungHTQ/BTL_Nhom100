@@ -1,0 +1,13 @@
+.dashboard-container {
+  padding: 50px;
+  text-align: center;
+  background-color: #d8f1ff; /* xanh nhạt */
+  min-height: 300px;
+  border: 2px solid #5ab4ff;
+}
+
+.dashboard-container h1 {
+  color: #0077cc;
+  font-size: 32px;
+  font-weight: bold;
+}
